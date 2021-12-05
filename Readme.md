@@ -7,7 +7,7 @@
 <img src='update.png'>
 #get by id
 <img src='get.png'>
-#
-<img src='view.png'>
+#View
+<img src='View.png'>
 #post
 <img src='post.png'>
